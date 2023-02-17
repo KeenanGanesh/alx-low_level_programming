@@ -1,21 +1,24 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabet in lowercase, and then in uppercase
- *
- * Return: Always 0 (Success)
+ *  * main - prints the lowercase alphabet
+ *  * using the putchar function
+ *  *
+ *  * Return: 0 on success
+ *  *      *
  */
 int main(void)
 {
-	char letter; {
+	char letter = 'a';
 
-	for (letter = 'a'; letter <= 'z'; letter++)
+	while (letter <= 'z')
+	{
 		putchar(letter);
-	for (letter = 'A'; letter <= 'Z'; letter++)
+		letter++;
+	}
 
-		putchar(letter);
-		putchar('\n');
+	putchar('\n');
 
 	return (0);
-	}
 }
+
