@@ -9,7 +9,7 @@
  *
  */
 
-char *leet(char *str);
+char *leet(char *str)
 {
 	int index1, index2;
 	char s1[] = "aAeEoOtTlL";
