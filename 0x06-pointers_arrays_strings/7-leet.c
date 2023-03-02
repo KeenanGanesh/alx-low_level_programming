@@ -11,20 +11,19 @@
 
 char *leet(char *str)
 {
-	int index1, index2;
-	char s1[] = "aAeEoOtTlL";
-	char s2[] = "4433007711";
+	int i[11] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L'};
+	int j[11] = {'4', '4', '3', '3', '0', '0', '7', '7', '1', '1'};
 
-	for (index1 = 0; n[index1] != '\0'; index1++)
+	inti, j;
+
+	for (j = 0; s[j] != '\0'; j++)
 	{
-		for (index2 = 0; index2 < 10; index2++)
+		for (i = 0; a[i] != '\0'; i++)
 		{
-			if (n[index1] == s1[index2])
-			{
-				n[index1] = s2[index2];
-			}
+			if (s[j] == a[i])
+				s [j] = b[i];
 		}
 	}
 
-	return (n);
+	return (str);
 }
