@@ -5,6 +5,6 @@
 > 0x02. C - Functions, nested loops  
 > 0x03. C - Debugging  
 > 0x04. C - More functions, more nested loops     
-> 0x05. C - Pointers, arrays and strings   
-> Project [0x06. C - More pointers, arrays and strings](https://intranet.alxswe.com/projects/217 "C - More pointers, arrays and strings")
-> Project [0x07. C Even more pointers, arrays and strings](https://intranet.alxswe.com/projects/218 "Even more pointers, arrays and strings")
+> Project [0x05. C - Pointers, arrays and strings](https://intranet.alxswe.com/projects/216 "Pointers, arrays and strings")   
+> Project [0x06. C - More pointers, arrays and strings](https://intranet.alxswe.com/projects/217 "C - More pointers, arrays and strings")   
+> Project [0x07. C Even more pointers, arrays and strings](https://intranet.alxswe.com/projects/218 "Even more pointers, arrays and strings")    
