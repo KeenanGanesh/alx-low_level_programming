@@ -8,4 +8,5 @@
 > Project [0x05. C - Pointers, arrays and strings](https://intranet.alxswe.com/projects/216 "Pointers, arrays and strings")   
 > Project [0x06. C - More pointers, arrays and strings](https://intranet.alxswe.com/projects/217 "C - More pointers, arrays and strings")   
 > Project [0x07. C Even more pointers, arrays and strings](https://intranet.alxswe.com/projects/218 "Even more pointers, arrays and strings")    
-> Project [0x08. C - Recursion](https://intranet.alxswe.com/projects/219 "Recursion")   
+> Project [0x08. C - Recursion](https://intranet.alxswe.com/projects/219 "Recursion")  
+> Project [0x09. C - Static libraries](https://intranet.alxswe.com/projects/220 "Static libraries") 
