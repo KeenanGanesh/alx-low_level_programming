@@ -27,3 +27,16 @@
 > 4. Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.   
 	* __Prototype: void free_grid(int **grid, int height);__   
 	* Note that we will compile with your alloc_grid.c file. Make sure it compiles.   
+> 5. Write a function that concatenates all the arguments of your program.    
+	* __Prototype: char *argstostr(int ac, char **av);__     
+	* Returns NULL if ac == 0 or av == NULL    
+	* Returns a pointer to a new string, or NULL if it fails    
+	* Each argument should be followed by a \n in the new string    
+> 6. Write a function that splits a string into words.   
+	* ___Prototype: char **strtow(char *str);___   
+	* The function returns a pointer to an array of strings (words)   
+	* Each element of this array should contain a single word, null-terminated   
+	* The last element of the returned array should be NULL   
+	* Words are separated by spaces   
+	* Returns NULL if str == NULL or str == ""   
+	* If your function fails, it should return NULL   
