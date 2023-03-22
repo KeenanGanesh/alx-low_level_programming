@@ -14,4 +14,5 @@
 > Project [0x0B. C - malloc, free](https://intranet.alxswe.com/projects/222 "C - malloc, free")   
 > Project [0x0C. C - More malloc, free](https://intranet.alxswe.com/projects/223 "C - More malloc, free")    
 > Project [0x0D. C - Preprocessor](https://intranet.alxswe.com/projects/224 "C - Preprocessor")   
-> Project [0x0E. C - Structures, typedef](https://intranet.alxswe.com/projects/225 "C - Structures, typedef")
+> Project [0x0E. C - Structures, typedef](https://intranet.alxswe.com/projects/225 "C - Structures, typedef")   
+> Project [0x0F. C - Function pointers](https://intranet.alxswe.com/projects/226 "C - Function pointers")   
