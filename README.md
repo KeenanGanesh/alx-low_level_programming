@@ -16,3 +16,4 @@
 > Project [0x0D. C - Preprocessor](https://intranet.alxswe.com/projects/224 "C - Preprocessor")   
 > Project [0x0E. C - Structures, typedef](https://intranet.alxswe.com/projects/225 "C - Structures, typedef")   
 > Project [0x0F. C - Function pointers](https://intranet.alxswe.com/projects/226 "C - Function pointers")   
+> Project [0x10. C - Variadic functions](https://intranet.alxswe.com/projects/227 "C - Variadic functions")   
