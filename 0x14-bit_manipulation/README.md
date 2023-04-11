@@ -31,4 +31,10 @@
 	* Returns: 1 if it worked, or -1 if an error occurred    
 > 5. Write a function that returns the number of bits you would need to flip to get from one number to another.    
 	* Prototype: unsigned int flip_bits(unsigned long int n, unsigned long int m);    
-	* You are not allowed to use the % or / operators     
+	* You are not allowed to use the % or / operators    
+> 6. Write a function that checks the endianness.    
+	* Prototype: int get_endianness(void);    
+	* Returns: 0 if big endian, 1 if little endian    
+> 7. Find the password for [this program](https://github.com/holbertonschool/0x13.c)    
+	* Save the password in the file 101-password     
+	* Your file should contain the exact password, no new line, no extra space     
